@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0043bb28-00b6-43c8-b5d4-e7e1bd59112c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KYHAt2bFTGvmmFFPHxPOsLA6sj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="birthday bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0043bb28-00b6-43c8-b5d4-e7e1bd59112c" name="Changes" comment="" />
+      <created>1674144455439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674144455439</updated>
+      <workItem from="1674144457484" duration="135000" />
+      <workItem from="1674144596981" duration="2491000" />
+      <workItem from="1674674326826" duration="1000" />
+      <workItem from="1674681170634" duration="1000" />
+      <workItem from="1674811383038" duration="144000" />
+      <workItem from="1674832619345" duration="42000" />
+      <workItem from="1674832944348" duration="33000" />
+      <workItem from="1674844883808" duration="6131000" />
+      <workItem from="1674927562223" duration="34069000" />
+      <workItem from="1675199015824" duration="1000" />
+      <workItem from="1675257392288" duration="4717000" />
+      <workItem from="1675365321909" duration="3024000" />
+      <workItem from="1675759525509" duration="804000" />
+      <workItem from="1675790055248" duration="115000" />
+      <workItem from="1675796843332" duration="655000" />
+      <workItem from="1675961646650" duration="4301000" />
+      <workItem from="1675970564479" duration="161000" />
+      <workItem from="1675970730067" duration="8000" />
+      <workItem from="1675970800593" duration="2619000" />
+      <workItem from="1676214828986" duration="4903000" />
+      <workItem from="1676305447496" duration="212000" />
+      <workItem from="1676305669087" duration="5006000" />
+      <workItem from="1676320425293" duration="192000" />
+      <workItem from="1676320629649" duration="367000" />
+      <workItem from="1676366332059" duration="3943000" />
+      <workItem from="1676480490456" duration="4000" />
+      <workItem from="1676480665400" duration="379000" />
+      <workItem from="1676481082188" duration="4000" />
+      <workItem from="1676483378204" duration="346000" />
+      <workItem from="1676577764185" duration="156000" />
+      <workItem from="1676716089688" duration="396000" />
+      <workItem from="1676716530667" duration="12461000" />
+      <workItem from="1676795956216" duration="4617000" />
+      <workItem from="1676811320160" duration="3152000" />
+      <workItem from="1677006148474" duration="2470000" />
+      <workItem from="1677057444403" duration="1622000" />
+      <workItem from="1677090608165" duration="634000" />
+      <workItem from="1677091289806" duration="3000" />
+      <workItem from="1677091314295" duration="12179000" />
+      <workItem from="1677253419393" duration="7930000" />
+      <workItem from="1677604760750" duration="3530000" />
+      <workItem from="1677957746611" duration="280000" />
+      <workItem from="1678041001674" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/birthday_bot$main.coverage" NAME="main Coverage Results" MODIFIED="1676219203135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
